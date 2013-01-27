@@ -3,6 +3,10 @@ gem 'rails_admin'
 gem 'rails-i18n'
 
 gem_group :development do
+  gem 'pry-rails'
+end
+
+gem_group :development do
   gem 'better_errors'
   gem 'binding_of_caller'
 end
