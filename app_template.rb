@@ -33,3 +33,4 @@ rake "db:migrate"
 generate "rails_admin:install", "admin rails_admin"
 rake "db:migrate"
 
+remove_file "public/index.html"
