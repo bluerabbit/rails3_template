@@ -1,6 +1,10 @@
 gem 'devise'
 gem 'rails_admin'
 gem 'rails-i18n'
+gem 'kaminari'
+gem 'active_decorator'
+gem 'tapp'
+gem 'haml-rails'
 
 gem_group :development do
   gem 'pry-rails'
